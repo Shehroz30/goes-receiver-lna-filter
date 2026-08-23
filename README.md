@@ -30,7 +30,7 @@ Designed using ADS, the filter is a 5th order Chebyshev filter based off of a ha
 Currently, software needs to be added and the board needs to be evaluated using a dish to receive the signals. 
 
 ## Gratitudes
-Worked on with @xuanmingl0415-arch
+Worked on with [@xuanmingl0415-arch](https://github.com/xuanmingl0415-arch)
 
 
 
